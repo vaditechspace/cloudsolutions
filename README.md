@@ -21,4 +21,4 @@ If you have questions or comments, please reach out to:
 - **Name**: Vadi Raju Parande | [LinkedIn Profile](https://www.linkedin.com/in/vparande) 
 ---
 
-Thank you for checking out the Cloud Projects Showcase!
+Thank you for checking out the Cloud Solutions Showcase!
