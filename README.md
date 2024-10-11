@@ -4,7 +4,7 @@ Welcome to the **Cloud Solutions** repository! This collection includes various 
 
 ## Overview
 
-    This repository contains different projects that show how to use Azure for building applications. 
+This repository contains different projects that show how to use Azure for building applications. 
 
 ## Featured Projects
 
